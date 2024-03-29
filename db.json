@@ -255,38 +255,6 @@
         }
       ],
       "stock": 15
-    },
-    {
-      "id": 17,
-      "user": "Cartera",
-      "description": "Cartera elegante y funcional con múltiples compartimentos y cierre de cremallera, ideal para llevar tus tarjetas, dinero y documentos con estilo.",
-      "urlImg": "https://falabella.scene7.com/is/image/FalabellaPE/gsc_122924521_3477158_1?wid=800&hei=800&qlt=70",
-      "price": 25.0,
-      "tags": [
-        {
-          "tagName": "Accesorios"
-        },
-        {
-          "tagName": "Moda"
-        }
-      ],
-      "stock": 25
-    },
-    {
-      "id": 18,
-      "user": "Juego de Mesa",
-      "description": "Juego de mesa clásico que proporciona horas de diversión para toda la familia, perfecto para reuniones y tardes de entretenimiento.",
-      "urlImg": "https://production-tailoy-repo-magento-statics.s3.amazonaws.com/imagenes/872x872/productos/i/j/u/juego-de-mesa-multijuego-29260-default-1.jpg",
-      "price": 30.0,
-      "tags": [
-        {
-          "tagName": "Entretenimiento"
-        },
-        {
-          "tagName": "Familia"
-        }
-      ],
-      "stock": 20
     }
   ],
   "users": [
